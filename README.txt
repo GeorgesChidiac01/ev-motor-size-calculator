@@ -18,8 +18,9 @@ replacement for detailed electromagnetic or thermal design.
 
 FILES
 -----
-  ev_motor_sizing.html   Interactive version with sliders and charts.
-                         Open it in any web browser. No install needed.
+  index.html             Interactive version with sliders and charts.
+                         Open it in any web browser, or use it live at
+                         https://georgeschidiac01.github.io/ev-motor-size-calculator/
   ev_motor_sizing.py     Command-line version. Same model, same results.
 
 
